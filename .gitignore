@@ -1,0 +1,13 @@
+# Local Claude / agent state
+.claude/
+.ctx/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
